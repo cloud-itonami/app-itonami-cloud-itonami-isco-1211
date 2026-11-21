@@ -1,4 +1,6 @@
 # cloud-itonami-isco-1211
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 1211. This app is not produced, reviewed or endorsed by the ILO.
+職業の参照: ISCO-08（国際労働機関 ILO、2012 年）のコード 1211。日本語の名称は当方の訳です。この app は ILO が作成・確認・推奨したものではありません。
 
 **Community Finance Management** — the ISCO-08 1211 (Finance Managers)
 actor, the **first wave-1 (design & governance) implemented actor**
